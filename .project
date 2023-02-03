@@ -13,5 +13,6 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+		\\I have changed it here\\
 	</natures>
 </projectDescription>
